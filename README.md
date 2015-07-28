@@ -1,5 +1,5 @@
 
-# scarproject(Scratch Japan 非公式テーム)のホームページのソースコード。(Github Pages Repo)
+# scarproject(Scratch Japan 非公式テーム)のホームページ。
 
 yu0712さんが始めたScratch紹介プロジェクト
 https://scratch.mit.edu/discuss/m/topic/137368/
