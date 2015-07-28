@@ -2,9 +2,11 @@
 # scarproject(Scratch Japan 非公式テーム)のホームページのソースコード。(Github Pages Repo)
 
 yu0712さんが始めたScratch紹介プロジェクト
-https://scratch.mit.edu/discuss/m/topic/137368/:公式フォーラム(要Scratchアカウント)
+https://scratch.mit.edu/discuss/m/topic/137368/
+:公式フォーラム(要Scratchアカウント)
 
-http://scarproject.github.io:公式ページ
+http://scarproject.github.io
+:公式ページ
 
 #メンバー
 メンバーリストは入った順で2015/7/28 20:00現在
@@ -14,4 +16,5 @@ http://scarproject.github.io:公式ページ
 ・ysk1108(https://mtaiking.github.io/ysk1108html/自己紹介.html)
 
 # リンク
-https://mtaiking.github.io:メンバー"えむた"のページ
+https://mtaiking.github.io
+:メンバー"えむた"のページ
