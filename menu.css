@@ -1,3 +1,6 @@
+body {
+	background-image:url(imgs/mokume.jpg);
+}
 .menu {
 	position: relative;
 	width: 100%;
